@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Priya Verma, 4th year student of B.Tech pursuing Computer Science and Engineering.
+- 👋 Hi, I’m Priya Verma, just graduated from B.Tech in Computer Science and Engineering.
 - 👀 I’m interested in competitive coding.
-- 🌱 I’m currently learning Javascript for front-end developent.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 You can reach me via linkedin : https://www.linkedin.com/in/priya-verma-04a83018a/
 
 <!---
