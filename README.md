@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priya Verma, just graduated with a B.Tech degree in Computer Science and Engineering from Jaypee University of Information Technology, Solan, Himachal Pradesh.
 - 👀 I’m interested in problem solving and I love to explore new technologies.
-- 🌱 I’m currently working on strengthening my skills in data structures and algorithms while concurrently diving into the world of data science.
+- 🌱 I’m currently working on strengthening my skills in data structures and algorithms while concurrently learning a new language for me i.e. Javascript.
 - 📫 You can reach me via linkedin : https://www.linkedin.com/in/priya-verma-04a83018a/
 
 <!---
