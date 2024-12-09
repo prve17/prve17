@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Priya Verma, just graduated with a B.Tech degree in Computer Science and Engineering from Jaypee University of Information Technology, Solan, Himachal Pradesh.
-- 👀 I’m interested in problem solving and I love to explore new technologies.
-- 🌱 I’m currently working on strengthening my skills in data structures and algorithms while concurrently learning a new language for me i.e. Javascript.
+- 👋 Hi, I’m Priya Verma, currently working in Cognizant Technology Solutions Corp as Programmer Analyst Trainee.
+- :school: I graduated with a B.Tech degree in CSE from Jaypee University of Information Technology, Solan, Himachal Pradesh.
+- :memo: I am working on IICS and upskilling myself in Datawarehousing tool that is Snowflake.
+- :bulb: As of personal upskilling, I’m working on strengthening my skills in data structures and algorithms while exploring new technologies related to Data.
 - 📫 You can reach me via linkedin : https://www.linkedin.com/in/priya-verma-04a83018a/
 
 <!---
